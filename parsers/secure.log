@@ -1,0 +1,135 @@
+Aug 17 17:42:17 ip-10-1-2-12 sshd[22997]: reverse mapping checking getaddrinfo for 111.111.111.111.dsl.telesp.net.br [111.111.111.111] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 17 17:42:18 ip-10-1-2-12 sshd[22997]: Accepted publickey for ec2-user from 111.111.111.111 port 30976 ssh2
+Aug 17 17:42:18 ip-10-1-2-12 sshd[22997]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 17 17:42:18 ip-10-1-2-12 sshd[22999]: subsystem request for sftp by user ec2-user
+Aug 17 17:48:57 ip-10-1-2-12 sshd[22997]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 17 23:14:58 ip-10-1-2-12 sshd[30104]: reverse mapping checking getaddrinfo for 111.111.111.111.dsl.telesp.net.br [111.111.111.111] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 17 23:14:59 ip-10-1-2-12 sshd[30104]: Accepted publickey for ec2-user from 111.111.111.111 port 31970 ssh2
+Aug 17 23:14:59 ip-10-1-2-12 sshd[30104]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 17 23:14:59 ip-10-1-2-12 sshd[30106]: subsystem request for sftp by user ec2-user
+Aug 17 23:16:04 ip-10-1-2-12 sshd[30104]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 18 02:06:25 ip-10-1-2-12 sshd[1686]: reverse mapping checking getaddrinfo for 111.111.111.111.dsl.telesp.net.br [111.111.111.111] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 18 02:06:26 ip-10-1-2-12 sshd[1686]: Accepted publickey for ec2-user from 111.111.111.111 port 32246 ssh2
+Aug 18 02:06:26 ip-10-1-2-12 sshd[1686]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 18 02:06:26 ip-10-1-2-12 sshd[1688]: subsystem request for sftp by user ec2-user
+Aug 18 02:07:32 ip-10-1-2-12 sshd[1686]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 18 14:31:40 ip-10-1-2-12 sshd[15457]: reverse mapping checking getaddrinfo for 222.22.222.222.dsl.telesp.net.br [222.22.222.222] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 18 14:31:40 ip-10-1-2-12 sshd[15457]: Accepted publickey for ec2-user from 222.22.222.222 port 20387 ssh2
+Aug 18 14:31:40 ip-10-1-2-12 sshd[15457]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 18 14:31:40 ip-10-1-2-12 sshd[15459]: subsystem request for sftp by user ec2-user
+Aug 18 14:32:40 ip-10-1-2-12 sshd[15494]: reverse mapping checking getaddrinfo for 222.22.222.222.dsl.telesp.net.br [222.22.222.222] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 18 14:32:40 ip-10-1-2-12 sshd[15494]: Accepted publickey for ec2-user from 222.22.222.222 port 16663 ssh2
+Aug 18 14:32:40 ip-10-1-2-12 sshd[15494]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 18 14:32:40 ip-10-1-2-12 sshd[15496]: subsystem request for sftp by user ec2-user
+Aug 18 14:51:42 ip-10-1-2-12 sshd[15494]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 18 14:51:42 ip-10-1-2-12 sshd[15457]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 18 18:41:27 ip-10-1-2-12 sshd[21437]: reverse mapping checking getaddrinfo for 222.22.222.222.dsl.telesp.net.br [222.22.222.222] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 18 18:41:27 ip-10-1-2-12 sshd[21437]: Accepted publickey for ec2-user from 222.22.222.222 port 43357 ssh2
+Aug 18 18:41:27 ip-10-1-2-12 sshd[21437]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 18 18:41:27 ip-10-1-2-12 sshd[21439]: subsystem request for sftp by user ec2-user
+Aug 18 18:51:50 ip-10-1-2-12 sshd[21437]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 18 20:45:36 ip-10-1-2-12 sshd[24181]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 18 20:45:36 ip-10-1-2-12 sshd[24181]: Invalid user ec2.user from 333.33.333.333
+Aug 18 20:45:36 ip-10-1-2-12 sshd[24181]: input_userauth_request: invalid user ec2.user [preauth]
+Aug 18 20:45:36 ip-10-1-2-12 sshd[24181]: Connection closed by 333.33.333.333 [preauth]
+Aug 18 20:47:07 ip-10-1-2-12 sshd[24198]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 18 20:47:07 ip-10-1-2-12 sshd[24198]: Invalid user ec2.user from 333.33.333.333
+Aug 18 20:47:07 ip-10-1-2-12 sshd[24198]: input_userauth_request: invalid user ec2.user [preauth]
+Aug 18 20:47:07 ip-10-1-2-12 sshd[24198]: Connection closed by 333.33.333.333 [preauth]
+Aug 18 20:47:22 ip-10-1-2-12 sshd[24200]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 18 20:47:23 ip-10-1-2-12 sshd[24200]: Accepted publickey for ec2-user from 333.33.333.333 port 63897 ssh2
+Aug 18 20:47:23 ip-10-1-2-12 sshd[24200]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 18 20:55:24 ip-10-1-2-12 sshd[24202]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 18 20:55:24 ip-10-1-2-12 sshd[24200]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 18 20:56:58 ip-10-1-2-12 sshd[24477]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 18 20:56:58 ip-10-1-2-12 sshd[24477]: Accepted publickey for ec2-user from 333.33.333.333 port 38078 ssh2
+Aug 18 20:56:58 ip-10-1-2-12 sshd[24477]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 18 20:57:08 ip-10-1-2-12 sshd[24479]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 18 20:57:08 ip-10-1-2-12 sshd[24477]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 18 21:02:53 ip-10-1-2-12 sshd[24640]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 18 21:02:53 ip-10-1-2-12 sshd[24640]: Accepted publickey for ec2-user from 333.33.333.333 port 14794 ssh2
+Aug 18 21:02:53 ip-10-1-2-12 sshd[24640]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 18 21:55:47 ip-10-1-2-12 sshd[24642]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 18 21:55:47 ip-10-1-2-12 sshd[24640]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 13:35:24 ip-10-1-2-12 sshd[15159]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 13:35:24 ip-10-1-2-12 sshd[15159]: Accepted publickey for ec2-user from 333.33.333.333 port 41259 ssh2
+Aug 19 13:35:24 ip-10-1-2-12 sshd[15159]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 13:39:50 ip-10-1-2-12 sshd[15354]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 13:39:50 ip-10-1-2-12 sshd[15354]: Accepted publickey for ec2-user from 333.33.333.333 port 60029 ssh2
+Aug 19 13:39:50 ip-10-1-2-12 sshd[15354]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 13:41:14 ip-10-1-2-12 sshd[15436]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 13:41:14 ip-10-1-2-12 sshd[15436]: Accepted publickey for ec2-user from 333.33.333.333 port 64818 ssh2
+Aug 19 13:41:14 ip-10-1-2-12 sshd[15436]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 13:41:20 ip-10-1-2-12 sshd[15438]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 13:41:20 ip-10-1-2-12 sshd[15436]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 13:47:01 ip-10-1-2-12 sshd[15161]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 13:47:01 ip-10-1-2-12 sshd[15159]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 13:47:17 ip-10-1-2-12 sshd[15616]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 13:47:17 ip-10-1-2-12 sshd[15616]: Accepted publickey for ec2-user from 333.33.333.333 port 37676 ssh2
+Aug 19 13:47:17 ip-10-1-2-12 sshd[15616]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 13:47:26 ip-10-1-2-12 sshd[15650]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 13:47:26 ip-10-1-2-12 sshd[15650]: Accepted publickey for ec2-user from 333.33.333.333 port 26989 ssh2
+Aug 19 13:47:26 ip-10-1-2-12 sshd[15650]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 13:47:30 ip-10-1-2-12 sshd[15652]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 13:47:30 ip-10-1-2-12 sshd[15650]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 13:52:14 ip-10-1-2-12 sshd[15356]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 13:52:14 ip-10-1-2-12 sshd[15354]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 13:56:05 ip-10-1-2-12 sshd[15849]: reverse mapping checking getaddrinfo for 222.22.222.222.dsl.telesp.net.br [222.22.222.222] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 13:56:06 ip-10-1-2-12 sshd[15849]: Accepted publickey for ec2-user from 222.22.222.222 port 35134 ssh2
+Aug 19 13:56:06 ip-10-1-2-12 sshd[15849]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 13:56:06 ip-10-1-2-12 sshd[15852]: subsystem request for sftp by user ec2-user
+Aug 19 13:57:20 ip-10-1-2-12 sshd[15910]: reverse mapping checking getaddrinfo for 222.22.222.222.dsl.telesp.net.br [222.22.222.222] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 13:57:20 ip-10-1-2-12 sshd[15910]: Accepted publickey for ec2-user from 222.22.222.222 port 1664 ssh2
+Aug 19 13:57:20 ip-10-1-2-12 sshd[15910]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 14:01:24 ip-10-1-2-12 sshd[15618]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 14:01:24 ip-10-1-2-12 sshd[15616]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 14:03:33 ip-10-1-2-12 sshd[15910]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 14:10:37 ip-10-1-2-12 sshd[16313]: reverse mapping checking getaddrinfo for 222.22.222.222.dsl.telesp.net.br [222.22.222.222] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 14:10:37 ip-10-1-2-12 sshd[16313]: Accepted publickey for ec2-user from 222.22.222.222 port 7264 ssh2
+Aug 19 14:10:37 ip-10-1-2-12 sshd[16313]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 14:15:56 ip-10-1-2-12 sshd[16313]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 15:25:31 ip-10-1-2-12 sshd[18327]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 15:25:31 ip-10-1-2-12 sshd[18327]: Accepted publickey for ec2-user from 333.33.333.333 port 28994 ssh2
+Aug 19 15:25:31 ip-10-1-2-12 sshd[18327]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 15:29:15 ip-10-1-2-12 sshd[18455]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 15:29:15 ip-10-1-2-12 sshd[18455]: Accepted publickey for ec2-user from 333.33.333.333 port 46166 ssh2
+Aug 19 15:29:15 ip-10-1-2-12 sshd[18455]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 15:29:19 ip-10-1-2-12 sshd[18457]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 15:29:19 ip-10-1-2-12 sshd[18455]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 16:44:09 ip-10-1-2-12 sshd[20497]: reverse mapping checking getaddrinfo for 222.22.222.222.dsl.telesp.net.br [222.22.222.222] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 16:44:09 ip-10-1-2-12 sshd[20497]: Accepted publickey for ec2-user from 222.22.222.222 port 35329 ssh2
+Aug 19 16:44:10 ip-10-1-2-12 sshd[20497]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 16:58:31 ip-10-1-2-12 sshd[20497]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 17:10:21 ip-10-1-2-12 sshd[21073]: reverse mapping checking getaddrinfo for 444.44.444.44.dsl.telesp.net.br [444.44.444.44] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 17:10:21 ip-10-1-2-12 sshd[21073]: Connection closed by 444.44.444.44 [preauth]
+Aug 19 17:11:38 ip-10-1-2-12 sshd[21098]: reverse mapping checking getaddrinfo for 444.44.444.44.dsl.telesp.net.br [444.44.444.44] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 17:11:38 ip-10-1-2-12 sshd[21098]: Accepted publickey for ec2-user from 444.44.444.44 port 10921 ssh2
+Aug 19 17:11:38 ip-10-1-2-12 sshd[21098]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 17:11:43 ip-10-1-2-12 sudo: ec2-user : TTY=pts/1 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/su
+Aug 19 17:11:43 ip-10-1-2-12 su: pam_unix(su:session): session opened for user root by ec2-user(uid=0)
+Aug 19 17:39:43 ip-10-1-2-12 sshd[18329]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 17:39:43 ip-10-1-2-12 sshd[18327]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 18:30:29 ip-10-1-2-12 sshd[30959]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 18:30:29 ip-10-1-2-12 sshd[30959]: Accepted publickey for ec2-user from 333.33.333.333 port 11066 ssh2
+Aug 19 18:30:29 ip-10-1-2-12 sshd[30959]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 19:23:09 ip-10-1-2-12 sshd[30961]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 19:23:09 ip-10-1-2-12 sshd[30959]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 19:30:36 ip-10-1-2-12 su: pam_unix(su:session): session closed for user root
+Aug 19 20:01:02 ip-10-1-2-12 sudo: ec2-user : TTY=pts/1 ; PWD=/home/ec2-user ; USER=root ; COMMAND=/bin/su
+Aug 19 20:01:02 ip-10-1-2-12 su: pam_unix(su:session): session opened for user root by ec2-user(uid=0)
+Aug 19 21:10:30 ip-10-1-2-12 sshd[15849]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 21:59:45 ip-10-1-2-12 sshd[3573]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 21:59:45 ip-10-1-2-12 sshd[3573]: Accepted publickey for ec2-user from 333.33.333.333 port 2947 ssh2
+Aug 19 21:59:45 ip-10-1-2-12 sshd[3573]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 22:08:00 ip-10-1-2-12 sshd[3820]: reverse mapping checking getaddrinfo for 333.33.333.333.static-corp.ajato.com.br [333.33.333.333] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 22:08:00 ip-10-1-2-12 sshd[3820]: Accepted publickey for ec2-user from 333.33.333.333 port 13861 ssh2
+Aug 19 22:08:00 ip-10-1-2-12 sshd[3820]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 22:08:03 ip-10-1-2-12 sshd[3822]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 22:08:03 ip-10-1-2-12 sshd[3820]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 23:08:13 ip-10-1-2-12 sshd[3575]: Received disconnect from 333.33.333.333: 11: disconnected by user
+Aug 19 23:08:14 ip-10-1-2-12 sshd[3573]: pam_unix(sshd:session): session closed for user ec2-user
+Aug 19 23:26:47 ip-10-1-2-12 sshd[5604]: reverse mapping checking getaddrinfo for 222.22.222.222.dsl.telesp.net.br [222.22.222.222] failed - POSSIBLE BREAK-IN ATTEMPT!
+Aug 19 23:26:48 ip-10-1-2-12 sshd[5604]: Accepted publickey for ec2-user from 222.22.222.222 port 24377 ssh2
+Aug 19 23:26:48 ip-10-1-2-12 sshd[5604]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Aug 19 23:54:51 ip-10-1-2-12 sshd[5604]: pam_unix(sshd:session): session closed for user ec2-user
+
