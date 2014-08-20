@@ -1,3 +1,9 @@
 [submodule "mongo-backup"]
 	path = mongo-backup
 	url = https://github.com/renanvicente/mongo-backup
+[submodule "vol-ami-snapshot-aws"]
+	path = vol-ami-snapshot-aws
+	url = https://github.com/renanvicente/vol-ami-snapshot-aws
+[submodule "zabbix-web-scenario"]
+	path = zabbix-web-scenario
+	url = https://github.com/renanvicente/zabbix-web-scenario
