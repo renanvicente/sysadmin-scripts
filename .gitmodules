@@ -1,0 +1,4 @@
+[submodule "mongo-backup"]
+        path = mongo-backup
+        url = https://github.com/renanvicente/mongo-backup.git
+
